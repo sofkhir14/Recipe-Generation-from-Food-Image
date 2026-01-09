@@ -11,7 +11,7 @@ tqdm == 4.47.0
 # F:\PROJECTS\Flask Projects\Recipe Generation from Food Image\Foodimg2Ing\modules\utils.py: 15,18
 # F:\PROJECTS\Flask Projects\Recipe Generation from Food Image\Foodimg2Ing\output.py: 4,5
 # F:\PROJECTS\Flask Projects\Recipe Generation from Food Image\Foodimg2Ing\utils\metrics.py: 7,8,9,10
-torch == 1.9.0
+torch==2.9.0
 
 # F:\PROJECTS\Flask Projects\Recipe Generation from Food Image\Foodimg2Ing\modules\encoder.py: 3
 # F:\PROJECTS\Flask Projects\Recipe Generation from Food Image\Foodimg2Ing\output.py: 11
@@ -24,7 +24,7 @@ torchvision == 0.10.0
 # F:\PROJECTS\Flask Projects\Recipe Generation from Food Image\Foodimg2Ing\__init__.py: 1
 # F:\PROJECTS\Flask Projects\Recipe Generation from Food Image\Foodimg2Ing\routes.py: 1
 Flask == 2.2.2
-werkzeug==2.2.2
+werkzeug==3.1.5
 
 # F:\PROJECTS\Flask Projects\Recipe Generation from Food Image\Foodimg2Ing\output.py: 13
 # F:\PROJECTS\Flask Projects\Recipe Generation from Food Image\Foodimg2Ing\utils\ims2file.py: 7
